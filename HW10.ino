@@ -1,4 +1,4 @@
-const int ledPins[] = {2, 3}; // Use digital pins for LEDs
+const int ledPins[] = {2, 3}; // digital pins for LEDs (d2 and d3)
 const int ledsCount = 2;
 const int interval = 10000; // Interval in milliseconds (10 seconds)
 
